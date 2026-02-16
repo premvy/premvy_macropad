@@ -1,3 +1,3 @@
 # ⌨️ Macropad
 
-A custom-designed, 12-key programmable macropad featuring per-key RGB lighting and an OLED status display. This project covers the full product development lifecycle: from schematic capture and PCB layout to mechanical enclosure design and firmware implementation.
+A custom 12-key programmable macropad designed to streamline workflows. This project integrates a custom PCB, addressable RGB lighting, and an OLED interface into a compact, 3D-printed enclosure.
