@@ -15,6 +15,9 @@ Bill of Materials (BOM)
 
 1. System Schematic
 
+![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20122518.png)
+
+
 The electrical blueprint detailing the RP2040 pinout, the 3x4 diode matrix logic, and I2C bus wiring for the peripherals.
 
 2. PCB Layout & Routing
