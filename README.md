@@ -29,6 +29,7 @@ The electrical blueprint detailing the RP2040 pinout, the 3x4 diode matrix logic
 
 ## 3. PCB Visualization
 
+![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20132626.png)
 3D model used to validate component footprints and mechanical clearances before fabrication.
 
 
