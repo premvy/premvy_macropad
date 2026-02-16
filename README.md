@@ -1,5 +1,14 @@
 # ⌨️ Macropad
 
-A custom 12-key programmable macropad designed to streamline workflows. This project integrates a custom PCB, addressable RGB lighting, and an OLED interface into a compact, 3D-printed enclosure.
+A custom 12-key macropad with per-key RGB lighting and an OLED display, powered by the Seeed XIAO RP2040. Designed with KiCad, SolidWorks, and Python.
 
-![PCB](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20121517.png) | ![Render]([images/render_shot.png](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20121414.png))
+Bill of Materials (BOM)
+
+- 1x Seeed XIAO RP2040
+- 12x Mechanical Switches
+- 12x 1N4148 Diodes
+- 12x SK6812 MINI-E RGB LEDs
+- 1x 0.91" OLED Display (I2C)
+- 1x Custom 3D Printed Case
+
+Project Gallery
