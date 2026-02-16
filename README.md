@@ -24,7 +24,7 @@ The electrical blueprint detailing the RP2040 pinout, the 3x4 diode matrix logic
 
 ![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20122638.png)
 
-### 2-layer PCB routing in KiCad. Significant focus was placed on trace management for the addressable LED data line and maintaining a clean ground plane.
+2-layer PCB routing in KiCad. Significant focus was placed on trace management for the addressable LED data line and maintaining a clean ground plane.
 
 
 ## 3. PCB Visualization
