@@ -17,13 +17,21 @@ Bill of Materials (BOM)
 
 ![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20122518.png)
 
-
 The electrical blueprint detailing the RP2040 pinout, the 3x4 diode matrix logic, and I2C bus wiring for the peripherals.
 
 2. PCB Layout & Routing
 
+![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20122638.png)
+
 2-layer PCB routing in KiCad. Significant focus was placed on trace management for the addressable LED data line and maintaining a clean ground plane.
 
-3. Enclosure CAD
+3. PCB Visualization
+
+3D model used to validate component footprints and mechanical clearances before fabrication.
+
+4. Enclosure CAD
+
+![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20121517.png)
+![Description](https://github.com/premvy/premvy_macropad/blob/main/Images/Screenshot%202026-02-16%20121414.png)
 
 Mechanical enclosure modeled in SolidWorks. The design features internal standoffs for the PCB and a precision-cut port for the XIAO’s USB-C interface.
