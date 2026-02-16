@@ -12,3 +12,15 @@ Bill of Materials (BOM)
 - 1x Custom 3D Printed Case
 
 # Project Gallery
+
+1. System Schematic
+
+The electrical blueprint detailing the RP2040 pinout, the 3x4 diode matrix logic, and I2C bus wiring for the peripherals.
+
+2. PCB Layout & Routing
+
+2-layer PCB routing in KiCad. Significant focus was placed on trace management for the addressable LED data line and maintaining a clean ground plane.
+
+3. Enclosure CAD
+
+Mechanical enclosure modeled in SolidWorks. The design features internal standoffs for the PCB and a precision-cut port for the XIAO’s USB-C interface.
