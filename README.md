@@ -11,4 +11,4 @@ Bill of Materials (BOM)
 - 1x 0.91" OLED Display (I2C)
 - 1x Custom 3D Printed Case
 
-Project Gallery
+# Project Gallery
